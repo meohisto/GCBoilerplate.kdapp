@@ -1,13 +1,13 @@
 {
   "devMode": true,
   "version": "0.1",
-  "name": "GCBoilerPlate",
-  "identifier": "com.koding.apps.GCBoilerPlate",
-  "path": "~/Applications/GCBoilerPlate.kdapp",
-  "homepage": "gokcetulum.koding.com/GCBoilerPlate",
+  "name": "Google Closure Boilerplate",
+  "identifier": "com.koding.apps.GCBoilerplate",
+  "path": "~/Applications/GCBoilerplate.kdapp",
+  "homepage": "gokcetulum.koding.com/GCBoilerplate",
   "author": "Gökçe Tulum",
-  "repository": "git://github.com/meohisto/GCBoilerPlate.kdapp.git",
-  "description": "GCBoilerPlate : Google Closure BoilerPlate Kooding App.",
+  "repository": "git://github.com/meohisto/GCBoilerplate.kdapp.git",
+  "description": "GCBoilerplate : Google Closure BoilerPlate Kooding App.",
   "category": "framework",
   "source": {
     "blocks": {
